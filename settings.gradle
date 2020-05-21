@@ -1,0 +1,3 @@
+rootProject.name='AndroidUniqueId'
+include ':app'
+include ':uniqueid'
